@@ -1,4 +1,4 @@
-# phage-taxonomy-wrt-host
+# R scripts searching for associations between the taxonomy and the hosts of phages
 
 R scripts examining the relation of the host (log)likelihood of phages to their taxonomic classification, by means of cluster analysis.
 
