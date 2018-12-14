@@ -1,7 +1,7 @@
 # Explore associations between phage taxonomy and hosts
 
+R scripts examining the relation of the host (log)likelihood profiles of phages to their taxonomic classification, by means of cluster analysis. <br />
 These scripts are still being edited.
-R scripts examining the relation of the host (log)likelihood profiles of phages to their taxonomic classification, by means of cluster analysis.
 
 ## Hypothetical experimental setup
 
